@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" onclick="window.open('https://centos.org/')">
 </div>
 
-<div>Hardware</div>
+<div>H/W</div>
 <div>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" onclick="window.open('https://www.arduino.cc/')">
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" onclick="window.open('https://raspberrypi.com/')">

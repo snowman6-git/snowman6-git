@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" onclick="window.open('https://www.javascript.com/')">
 </div>
 
-<div>Os</div>
+<div>OS</div>
 <div>
     <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" onclick="window.open('https://www.debian.org/')">
     <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" onclick="window.open('https://centos.org/')">

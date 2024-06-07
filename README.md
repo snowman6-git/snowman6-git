@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Rust](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg&theme=light)](https://skillicons.dev)
+
 
 <!--
 **snowman6-git/snowman6-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

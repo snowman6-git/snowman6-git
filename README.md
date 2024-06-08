@@ -3,7 +3,7 @@
 
 <div>Team A.Dot</div>
 <img src="http://pictag.kro.kr/tag/adot.svg" onclick="window.open('')">
-<div>Langueges</div>
+<div>languages</div>
 <div>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" onclick="window.open('https://www.python.org/')">
     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" onclick="window.open('https://www.rust-lang.org/')">
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" onclick="window.open('https://flask.palletsprojects.com/en/3.0.x/')">
 </div>
 
-<div>Leaning</div>
+<div>Learning</div>
 <div>
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" onclick="window.open('https://archlinux.org/')">
 </div>

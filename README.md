@@ -15,6 +15,7 @@
 <div>
     <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" onclick="window.open('https://www.debian.org/')">
     <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" onclick="window.open('https://centos.org/')">
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" onclick="window.open('https://archlinux.org/')">
 </div>
 
 <div>H/W</div>
@@ -32,7 +33,8 @@
 
 <div>Learning</div>
 <div>
-    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" onclick="window.open('https://archlinux.org/')">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 </div>
 
 <div>Game</div>

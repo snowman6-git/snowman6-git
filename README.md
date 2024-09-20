@@ -1,5 +1,5 @@
-<img style="width: 100px; height: 100px;" src="http://cravatar.eu/head/snowman6/512.png">
 
+<img src="https://fila.aleu.xyz/discord/user/412863872127729687?theme=dark">
 
 <div>Team A.Dot</div>
 <img src="http://pictag.kro.kr/tag/adot.svg" onclick="window.open('')">
@@ -46,6 +46,7 @@
 </div>
 
 <div>Game</div>
+
 <div>
     <img style="width: 50px; height: 50px;" src="https://i.namu.wiki/i/pzrESm0R1C5ZvvXT2nfC1m3b0_MrtI5cCt0O-PbR0XmbiexcLuDUVm_eYZZ-SF5m01LPOOC2a_AcVcNul9EMcw.webp">
     <img style="width: 50px; height: 50px;" src="https://styles.redditmedia.com/t5_12p4l2/styles/communityIcon_esn2j9in4urc1.png">

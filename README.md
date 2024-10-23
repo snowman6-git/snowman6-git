@@ -40,11 +40,13 @@
 </div>
 
 <div>Learning</div>
-<div>
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white">
-    <img src="http://pictag.kro.kr/tag/kernal.svg" onclick="window.open('https://www.khadas.com/')">
-</div>
+
+|wating|in progress|before main|
+|:----:|:---------:|:-------------------:|
+|<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">|
+||<img src="http://pictag.kro.kr/tag/kernal.svg" onclick="window.open('https://www.khadas.com/')">|
+||<img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white">|
+||<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+|||<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">|
+
 <!-- <img src="" onclick="window.open('')"> https://github.com/Ileriayo/markdown-badges -->

@@ -4,7 +4,7 @@
 
 
 <div>Team A.Dot</div>
-<img src="http://pictag.kro.kr/tag/adot.svg" onclick="window.open('')">
+<img src="http://pictag.aa2.uk/tag/adot.svg" onclick="window.open('')">
 <div>Languages</div>
 <div>
     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" onclick="window.open('https://www.rust-lang.org/')">
@@ -24,7 +24,7 @@
 <div>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" onclick="window.open('https://www.arduino.cc/')">
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" onclick="window.open('https://raspberrypi.com/')">
-    <img src="http://pictag.kro.kr/tag/Khadas.svg" onclick="window.open('https://www.khadas.com/')">
+    <img src="http://pictag.aa2.uk/tag/Khadas.svg" onclick="window.open('https://www.khadas.com/')">
 </div>
 
 <div>Servers</div>
@@ -44,7 +44,7 @@
 |wating|in progress|before main|
 |:----:|:---------:|:-------------------:|
 |<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">|
-||<img src="http://pictag.kro.kr/tag/kernal.svg" onclick="window.open('https://www.khadas.com/')">|
+||<img src="http://pictag.aa2.uk/tag/kernal.svg" onclick="window.open('https://www.khadas.com/')">|
 ||<img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white">|
 ||<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 |||<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">|

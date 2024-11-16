@@ -41,7 +41,7 @@
 
 <div>Learning</div>
 
-|wating|in progress|before main|
+|대기|숙련중|좀있으면 메인|
 |:----:|:---------:|:-------------------:|
 |<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">|
 ||<img src="http://pictag.aa2.uk/tag/kernal.svg" onclick="window.open('https://www.khadas.com/')">|

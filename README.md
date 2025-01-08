@@ -1,12 +1,15 @@
+<h2>재밌어보이는거 다 하는 문과형 공대생</h2>
 
-<img src="https://fila.aleu.xyz/discord/user/412863872127729687?theme=dark">
+<h3>주변평가</h3>
+<div>너 왜 안자?: 10%</div>
+<div>와 너 개발 잘한다: 40%</div>
+<div>와 너 글 잘쓴다: 50%</div>
 
-<h2>수업보다 자습이 좋은 문과반 이과반 공대생</h2>
-<div>기술: 30%</div>
-<div>감성: 20%</div>
-<div>아이디어: 50%</div>
-<h4>희한한거 좋아함</h4>
-
+<h3>자주 듣는 질문</h3>
+<div>너 대학 왜 왔냐: 10%</div>
+<div>니가 성적이 낮다고?: 10%</div>
+<b>니가 애니를 안본다고?: 80%</b>
+<br>
 <div>Team A.Dot</div>
 <img src="http://pictag.aa2.uk/tag/adot.svg" onclick="window.open('')">
 

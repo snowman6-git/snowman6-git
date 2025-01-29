@@ -58,6 +58,7 @@
 <details>
     <summary>[ Etc. 🗂️]</summary>
     <img src="http://pictag.aa2.uk/image?tag=onshape.svg">
+    <img src="http://pictag.aa2.uk/image?tag=comfyui.svg">
 </details>
 <!-- ===================================================================================================================== -->
 <hr>

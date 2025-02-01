@@ -1,5 +1,5 @@
 <!-- a href 먹음 -->
-<img src="localhost:3001/badges?tag=snowman6-git&&from=img.shields.io,pictag">
+<img src="http://pictag.aa2.uk/badges?tag=snowman6-git&&from=shields,pictag.aa2.uk">
 <hr>
 <!-- ===================================================================================================================== -->
  <details>

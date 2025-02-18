@@ -1,5 +1,5 @@
 <!-- a href 먹음 -->
-![](http://pictag.aa2.uk/badges?tag=snowman6-git&&from=shields,pictag)
+![](https://pictag.aa2.uk/badges?tag=snowman6-git&&from=shields,pictag)
 <hr>
 <!-- ===================================================================================================================== -->
  <details>
@@ -23,7 +23,7 @@
     <summary>[ H/W 🔲]</summary>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
-    <img src="http://pictag.aa2.uk/image?tag=Khadas.svg">
+    <img src="https://pictag.aa2.uk/image?tag=Khadas.svg">
 </details>
 <!-- ===================================================================================================================== -->
 <details>
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-    <img src="http://pictag.aa2.uk/image?tag=hono.svg">
+    <img src="https://pictag.aa2.uk/image?tag=hono.svg">
     <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </details>
@@ -45,21 +45,21 @@
 <!-- ===================================================================================================================== -->
 <details>
     <summary>[ ide 🛠️]</summary>
-    <img src="http://pictag.aa2.uk/image?tag=vscode.svg">
+    <img src="https://pictag.aa2.uk/image?tag=vscode.svg">
 </details>
 <!-- ===================================================================================================================== -->
 <details>
     <summary>[ Learning 🌱]</summary>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="http://pictag.aa2.uk/image?tag=kernal.svg">
+    <img src="https://pictag.aa2.uk/image?tag=kernal.svg">
     <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white">
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 </details>
 <!-- ===================================================================================================================== -->
 <details>
     <summary>[ Etc. 🗂️]</summary>
-    <img src="http://pictag.aa2.uk/image?tag=onshape.svg">
-    <img src="http://pictag.aa2.uk/image?tag=comfyui.svg">
+    <img src="https://pictag.aa2.uk/image?tag=onshape.svg">
+    <img src="https://pictag.aa2.uk/image?tag=comfyui.svg">
 </details>
 <!-- ===================================================================================================================== -->
 <hr>

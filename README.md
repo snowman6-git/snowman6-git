@@ -50,8 +50,8 @@
 <!-- ===================================================================================================================== -->
 <details>
     <summary>[ Learning 🌱]</summary>
+    <img src="https://pictag.aa2.uk/image?tag=kernal2.svg">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://pictag.aa2.uk/image?tag=kernal.svg">
     <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white">
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 </details>

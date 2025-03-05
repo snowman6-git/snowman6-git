@@ -1,5 +1,6 @@
 <!-- a href 먹음 -->
 ![](https://pictag.aa2.uk/badges?tag=snowman6-git&&from=shields,pictag)
+
 <hr>
 <!-- ===================================================================================================================== -->
  <details>
@@ -50,7 +51,6 @@
 <!-- ===================================================================================================================== -->
 <details>
     <summary>[ Learning 🌱]</summary>
-    <img src="https://pictag.aa2.uk/image?tag=kernal.svg">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white">
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">

@@ -65,5 +65,5 @@
 <!-- ===================================================================================================================== -->
 <hr>
 
-![](https://pictag.aa2.uk/image?tag=모그마니두커우은사우르스르.png)
+![](https://pictag.aa2.uk/image?tag=모그마니두커우은사우르스르black.png)
 Third Badge by: [PicTag](https://github.com/snowman6-git/PicTag_TS) 
